@@ -3,7 +3,7 @@
 - tutorials ✅
 - how-to guides ✅
 - technical reference ✅
-- explanation (blog.iota.org?)
+- explanation
 
 
 ## Rules
